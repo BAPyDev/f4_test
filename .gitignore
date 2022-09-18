@@ -141,3 +141,7 @@ GitHub.sublime-settings
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/vcs.xml
+/todo/migrations/
+
+#node
+node_modules
