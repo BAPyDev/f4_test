@@ -145,3 +145,4 @@ GitHub.sublime-settings
 
 #node
 node_modules
+/.idea/jsLibraryMappings.xml

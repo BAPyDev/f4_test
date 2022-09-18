@@ -6,8 +6,8 @@ class DashBoard extends Component {
     render() {
         return (
             <Fragment>
-                 <Form />
                  <List />
+                 <Form />
             </Fragment>
         );
     }
